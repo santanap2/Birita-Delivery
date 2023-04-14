@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 /* eslint-disable react/jsx-max-depth */
 /* eslint-disable max-len */
 import React, { useContext, useState, useEffect } from 'react';
